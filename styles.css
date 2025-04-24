@@ -643,12 +643,12 @@ input[type="name"]{
      right: 100px;
    }
    .border img{
-    height: 30px;
+    height: 5px;
     width: 700px;
     position: relative;
     top: 70px;
     right: 850px;
-    color: rgb(132, 130, 130);
+   color: rgb(132, 130, 130);
    }
    .copy{
     position: relative;
